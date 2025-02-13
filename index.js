@@ -103,12 +103,12 @@ const sayilarUzunluk = sayilar.length
 console.log(sayilarUzunluk);
 
 let ucetambolunenler = [];
-  enkucuk = sayilar[0];
-  enbuyuk = sayilar[0];
-  ucebolunenlerintoplami = 0
-  besyuzdenkucuksayilar = []
-  siralisayilar = []
-  tekraredensayilar = []
+let enkucuk = sayilar[0];
+let enbuyuk = sayilar[0];
+let ucebolunenlerintoplami = 0
+let besyuzdenkucuksayilar = []
+let siralisayilar = []
+let tekraredensayilar = []
 
 
 // 3a çözümü
